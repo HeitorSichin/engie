@@ -1,0 +1,19 @@
+@model IEnumerable<Engie.Domain.Entities.PowerPlant>
+<h1>Teste</h1>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Fornecedor</th>
+        <th>UC da Usina</th>
+    </tr>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                <td>@Html.DisplayFor(modelItem => item.Supplier.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.PowerPlantUC)</td>
+            </tr>
+        }
+    </tbody>
+</table>

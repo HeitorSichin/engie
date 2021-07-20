@@ -1,0 +1,9 @@
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Shared\bin\Debug\netstandard2.0\Engie.Shared.deps.json
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Shared\bin\Debug\netstandard2.0\Engie.Shared.dll
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Shared\bin\Debug\netstandard2.0\Engie.Shared.pdb
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Shared\obj\Debug\netstandard2.0\Engie.Shared.csprojAssemblyReference.cache
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Shared\obj\Debug\netstandard2.0\Engie.Shared.AssemblyInfoInputs.cache
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Shared\obj\Debug\netstandard2.0\Engie.Shared.AssemblyInfo.cs
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Shared\obj\Debug\netstandard2.0\Engie.Shared.csproj.CoreCompileInputs.cache
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Shared\obj\Debug\netstandard2.0\Engie.Shared.dll
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Shared\obj\Debug\netstandard2.0\Engie.Shared.pdb

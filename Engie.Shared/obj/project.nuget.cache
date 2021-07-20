@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+dLXnFX+yMMPIH0VmWrlIn99jZDbDmXf5b5xHBua9Z2DLZs5Tg4tbmYgga8aq3vrKc6decPcBdDngooHjHHsQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\heitor.sichin\\Documents\\apps\\Engie\\Engie.Shared\\Engie.Shared.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\heitor.sichin\\.nuget\\packages\\flunt\\2.0.4\\flunt.2.0.4.nupkg.sha512",
+    "D:\\Users\\heitor.sichin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "D:\\Users\\heitor.sichin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\bin\Debug\netstandard2.0\Engie.Domain.deps.json
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\bin\Debug\netstandard2.0\Engie.Domain.dll
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\bin\Debug\netstandard2.0\Engie.Domain.pdb
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\obj\Debug\netstandard2.0\Engie.Domain.csprojAssemblyReference.cache
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\obj\Debug\netstandard2.0\Engie.Domain.AssemblyInfoInputs.cache
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\obj\Debug\netstandard2.0\Engie.Domain.AssemblyInfo.cs
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\obj\Debug\netstandard2.0\Engie.Domain.csproj.CoreCompileInputs.cache
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\obj\Debug\netstandard2.0\Engie.Domain.dll
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\obj\Debug\netstandard2.0\Engie.Domain.pdb
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\bin\Debug\netstandard2.0\Engie.Shared.dll
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\bin\Debug\netstandard2.0\Engie.Shared.pdb
+D:\Users\heitor.sichin\Documents\apps\Engie\Engie.Domain\obj\Debug\netstandard2.0\Engie.Domain.csproj.CopyComplete
